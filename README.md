@@ -4,10 +4,10 @@ Este projeto implementa um jogo interativo com sistemas complexos utilizando mat
 
 ## Materiais utilizados
 
-1. 👾**NUCLEO-G071RB**  
+1. 👾 **NUCLEO-G071RB**  
    - Placa disponível no laboratório.
 
-2. 📟**Shield LCD/Keypad**  
+2. 📟 **Shield LCD/Keypad**  
    - Shield disponível no laboratório.
 
 3. 🌡️**SHT15**  
@@ -16,11 +16,11 @@ Este projeto implementa um jogo interativo com sistemas complexos utilizando mat
 4. 🔉**Buzzer**  
    - Placa disponível no laboratório.
 
-5. 💾**Leitor SmartCard**  
+5. 💾 **Leitor SmartCard**  
    - Placa disponível no laboratório.
 
-6. 💳**SmartCard**  
+6. 💳 **SmartCard**  
    - Cartão disponível no laboratório.
 
-7. 🖥️**Matriz de LED 32x16**  
+7. 🖥️ **Matriz de LED 32x16**  
    - Cartão disponível no laboratório.
